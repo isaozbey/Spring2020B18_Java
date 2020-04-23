@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="062011b9-dfda-4956-a5a0-d1c532777da5" name="Default Changelist" comment="" />
+    <list default="true" id="062011b9-dfda-4956-a5a0-d1c532777da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26/WarmUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26/WarmUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indivual2/Fibonachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indivual2/Fibonachi.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +22,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1YuoVlKpKO6mzsQ4IEx54ekYpSC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -126,6 +137,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="3020" y="346" key="#Notifications" timestamp="1587676619437">
+      <screen x="2560" y="259" width="1920" height="1057" />
+    </state>
+    <state x="3020" y="346" key="#Notifications/2560.259.1920.1057/0.23.2560.1361@2560.259.1920.1057" timestamp="1587676619437" />
     <state x="954" y="423" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586390932234">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
@@ -224,6 +239,10 @@
     <state x="936" y="518" key="com.intellij.ide.util.TipDialog/-1920.271.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1584060723753" />
     <state x="936" y="518" key="com.intellij.ide.util.TipDialog/2560.224.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1587147184492" />
     <state x="936" y="518" key="com.intellij.ide.util.TipDialog/2560.259.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1587515871674" />
+    <state x="3284" y="666" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587676605779">
+      <screen x="2560" y="259" width="1920" height="1057" />
+    </state>
+    <state x="3284" y="666" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.259.1920.1057/0.23.2560.1361@2560.259.1920.1057" timestamp="1587676605779" />
     <state x="947" y="520" width="814" height="334" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585015104122">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>

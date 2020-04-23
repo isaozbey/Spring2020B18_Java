@@ -17,6 +17,7 @@ public class WarmUp {
     public static void main(String[] args) {
         String str="AAA";
         char ch ='A';
+
         char [] arr=str.toCharArray();
 
         int sum=Frequncey(arr,ch);
