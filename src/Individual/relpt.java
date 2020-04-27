@@ -2,21 +2,33 @@ package Individual;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
+import java.util.Arrays;
 public class relpt {
 
     public static void main(String[] args) {
-
-        Scanner input = new Scanner(System.in);
-        String[] words = {input.nextLine(),input.nextLine(),input.nextLine(),input.nextLine(),input.nextLine()};
-        String[] words2=new String[words.length];
-
-        //TODO: Write your code below
-        for (int i=0; i<words.length;i++) {
-            words2[i]=words[i].substring(0,1)+words[i].substring(words[i].length()-1);
+     boolean result=appearsTwice("laptop","I would like to buy a new laptop, because my laptop is too old.");
+      System.out.println(result);
+      String  str="I would like to buy a new laptop, because my laptop is too old.";
+      String [] list =str.split(" ");
+      System.out.println(Arrays.toString(list));
+    }
 
 
+    public static boolean appearsTwice(String target, String sentence) {
+        sentence=sentence.replace(",","");
+        String [] arrSentence = sentence.split(" ");
+        int count=0;
+        for (String each:arrSentence) {
+            if (each.equals(target)) {
+                count++;
+            }
         }
-        System.out.print(Arrays.toString(words2));
+        if (count==2) {
+            return true;
+        }
+        return false;
     }
 
-    }
+
+}
+

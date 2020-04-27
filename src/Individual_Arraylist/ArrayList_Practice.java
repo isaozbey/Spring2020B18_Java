@@ -64,7 +64,7 @@ public class ArrayList_Practice {
 
         boolean b1=city.remove("Miami");
 
-         System.out.println(b1 +" "+city);
+         System.out.println(b1 +""+city);
 
 
 
